@@ -1,0 +1,7 @@
+#Assign variables to the shapefiels
+park = "Parks_sd.shp"
+school = "Schools_sd.shp"
+sewer = "Sewer_sd.shp"
+parkName = "Parks_sd"
+print (parkName)
+#Create a list ofshapefile variables
